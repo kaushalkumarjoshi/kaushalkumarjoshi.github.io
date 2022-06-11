@@ -1,22 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.c498d351.css",
-    "main.js": "/static/js/main.e511ee1d.js",
+    "main.css": "/static/css/main.a258be6e.css",
+    "main.js": "/static/js/main.d5961600.js",
     "static/js/787.284ef8d7.chunk.js": "/static/js/787.284ef8d7.chunk.js",
-    "static/media/OverheadReservoir.png": "/static/media/OverheadReservoir.4ae0db6c1a2d3d0d1c01.png",
+    "static/media/AreaReservoir.png": "/static/media/AreaReservoir.4ae0db6c1a2d3d0d1c01.png",
     "static/media/KaushalPortrait.png": "/static/media/KaushalPortrait.998a5c3347ecd0dadb4e.png",
+    "static/media/OverheadReservoir.png": "/static/media/OverheadReservoir.8b5da6b4e45d039de227.png",
+    "static/media/MasterReservoir.png": "/static/media/MasterReservoir.5ad94f9b2809e35c96fa.png",
     "static/media/ResumePortrait.png": "/static/media/ResumePortrait.bb136518cf6d5018ca1f.png",
-    "static/media/WaterTankGreen.svg": "/static/media/WaterTankGreen.561018c1472c87185ddb024be5e95939.svg",
-    "static/media/WaterTankGrey.svg": "/static/media/WaterTankGrey.dbd9372f15f7b58b8644db083bf99da2.svg",
-    "static/media/WaterTankRed.svg": "/static/media/WaterTankRed.eb407d835164183a80ae652ddd866c4c.svg",
-    "static/media/WaterTankYellow.svg": "/static/media/WaterTankYellow.517df6701a21ac843b625247edc9cb8b.svg",
+    "static/media/MasterReservoirRed.svg": "/static/media/MasterReservoirRed.05510bf9549c43b949396aabfc0f7c64.svg",
+    "static/media/MasterReservoirGreen.svg": "/static/media/MasterReservoirGreen.167f247cb83e4c9ed2096fa59341fc30.svg",
+    "static/media/MasterReservoirGrey.svg": "/static/media/MasterReservoirGrey.0d45a505c6c6cf878ac46c1578e6dc84.svg",
+    "static/media/MasterReservoirYellow.svg": "/static/media/MasterReservoirYellow.cdd7ecf468e9af35160b1e9ada029090.svg",
+    "static/media/PumpingStationRed.svg": "/static/media/PumpingStationRed.7627acc3d53cf54b5b892f82d465607e.svg",
+    "static/media/PumpingStationGrey.svg": "/static/media/PumpingStationGrey.e0b9c2fcbe671e0d154b9cc4ab1833f8.svg",
+    "static/media/PumpingStationYellow.svg": "/static/media/PumpingStationYellow.ae92f7d0f7d427e41c819b9e62a3a6ff.svg",
+    "static/media/PumpingStationGreen.svg": "/static/media/PumpingStationGreen.cbdbcdb048a25fbd0c258d6c1ecd8ab7.svg",
+    "static/media/AreaReservoirGrey.svg": "/static/media/AreaReservoirGrey.7288011bb41218ad240bc2d5deb45423.svg",
+    "static/media/AreaReservoirRed.svg": "/static/media/AreaReservoirRed.955af47f05277f3c860ef46940904d66.svg",
+    "static/media/AreaReservoirGreen.svg": "/static/media/AreaReservoirGreen.698692bf6e6e85a95a9abe51604da6c2.svg",
+    "static/media/AreaReservoirYellow.svg": "/static/media/AreaReservoirYellow.a785b2b821a7dd8e06abe57752d63a73.svg",
+    "static/media/OverheadReservoirGreen.svg": "/static/media/OverheadReservoirGreen.561018c1472c87185ddb024be5e95939.svg",
+    "static/media/OverheadReservoirGrey.svg": "/static/media/OverheadReservoirGrey.dbd9372f15f7b58b8644db083bf99da2.svg",
+    "static/media/OverheadReservoirRed.svg": "/static/media/OverheadReservoirRed.eb407d835164183a80ae652ddd866c4c.svg",
+    "static/media/OverheadReservoirYellow.svg": "/static/media/OverheadReservoirYellow.517df6701a21ac843b625247edc9cb8b.svg",
     "index.html": "/index.html",
-    "main.c498d351.css.map": "/static/css/main.c498d351.css.map",
-    "main.e511ee1d.js.map": "/static/js/main.e511ee1d.js.map",
+    "main.a258be6e.css.map": "/static/css/main.a258be6e.css.map",
+    "main.d5961600.js.map": "/static/js/main.d5961600.js.map",
     "787.284ef8d7.chunk.js.map": "/static/js/787.284ef8d7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c498d351.css",
-    "static/js/main.e511ee1d.js"
+    "static/css/main.a258be6e.css",
+    "static/js/main.d5961600.js"
   ]
 }
